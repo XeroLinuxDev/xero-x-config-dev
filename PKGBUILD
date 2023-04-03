@@ -2,7 +2,7 @@
 pkgname=xero-x-config-dev
 _destname1="/etc"
 pkgver=23.04
-pkgrel=9
+pkgrel=10
 pkgdesc="Desktop Config for XeroXFCE Dev"
 arch=('any')
 url="https://github.com/XeroLinuxDev"
