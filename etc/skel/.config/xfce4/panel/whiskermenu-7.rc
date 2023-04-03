@@ -1,8 +1,9 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=
-button-icon=org.xerolinux.welcome
+recent=org.manjaro.pamac.manager.desktop,lightdm-gtk-greeter-settings.desktop,org.flameshot.Flameshot.desktop,viewnior.desktop,thorium-browser-unstable.desktop,steam.desktop,org.x.Warpinator.desktop,xfce-ui-settings.desktop,virtualbox.desktop,xfce4-file-manager.desktop
+button-title=XeroCE Menu
+button-icon=/usr/share/pixmaps/xero.png
 button-single-row=false
-show-button-title=false
+show-button-title=true
 show-button-icon=true
 launcher-show-name=true
 launcher-show-description=true
@@ -23,8 +24,8 @@ position-categories-horizontal=false
 stay-on-focus-out=false
 profile-shape=0
 confirm-session-command=true
-menu-width=450
-menu-height=500
+menu-width=472
+menu-height=592
 menu-opacity=100
 command-settings=xfce4-settings-manager
 show-command-settings=true
@@ -85,5 +86,4 @@ name=Open URI
 pattern=^(file|http|https):\\/\\/(.*)$
 command=exo-open \\0
 regex=true
-
 

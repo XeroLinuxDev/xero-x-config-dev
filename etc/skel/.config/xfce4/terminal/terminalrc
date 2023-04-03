@@ -1,12 +1,11 @@
 [Configuration]
-BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
 MiscBellUrgent=FALSE
 MiscBordersDefault=TRUE
 MiscCursorBlinks=FALSE
 MiscCursorShape=TERMINAL_CURSOR_SHAPE_BLOCK
-MiscDefaultGeometry=114x26
+MiscDefaultGeometry=100x24
 MiscInheritGeometry=FALSE
 MiscMenubarDefault=TRUE
 MiscMouseAutohide=FALSE
@@ -23,11 +22,23 @@ MiscCopyOnSelect=FALSE
 MiscShowRelaunchDialog=TRUE
 MiscRewrapOnResize=TRUE
 MiscUseShiftArrowsToScroll=FALSE
-MiscSlimTabs=TRUE
+MiscSlimTabs=FALSE
 MiscNewTabAdjacent=FALSE
 MiscSearchDialogOpacity=100
-MiscShowUnsafePasteDialog=TRUE
+MiscShowUnsafePasteDialog=FALSE
 MiscRightClickAction=TERMINAL_RIGHT_CLICK_ACTION_CONTEXT_MENU
-BackgroundDarkness=0.750000
-
+BackgroundDarkness=0,850000
+FontName=JetBrains Mono 16
+ColorForeground=#CDD6F4
+ColorBackground=#1E1E2E
+ColorCursor=#F5E0DC
+ColorPalette=#45475A;#F38BA8;#A6E3A1;#F9E2AF;#89B4FA;#F5C2E7;#94E2D5;#BAC2DE;#585B70;#F38BA8;#A6E3A1;#F9E2AF;#89B4FA;#F5C2E7;#94E2D5;#A6ADC8
+ColorCursorForeground=#11111B
+ColorCursorUseDefault=FALSE
+ColorSelection=#CDD6F4
+ColorSelectionBackground=#585B70
+ColorSelectionUseDefault=FALSE
+TabActivityColor=#FAB387
+BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
+FontUseSystem=TRUE
 
