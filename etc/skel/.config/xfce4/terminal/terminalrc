@@ -5,7 +5,7 @@ MiscBellUrgent=FALSE
 MiscBordersDefault=TRUE
 MiscCursorBlinks=FALSE
 MiscCursorShape=TERMINAL_CURSOR_SHAPE_BLOCK
-MiscDefaultGeometry=100x24
+MiscDefaultGeometry=110x25
 MiscInheritGeometry=FALSE
 MiscMenubarDefault=TRUE
 MiscMouseAutohide=FALSE
@@ -41,4 +41,3 @@ ColorSelectionUseDefault=FALSE
 TabActivityColor=#FAB387
 BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
 FontUseSystem=TRUE
-
