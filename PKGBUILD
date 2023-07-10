@@ -1,7 +1,7 @@
 # Maintainer: DarkXero <info@techxero.com>
 pkgname=xero-x-config-dev
 _destname1="/etc"
-pkgver=23.05
+pkgver=23.08
 pkgrel=1
 pkgdesc="Desktop Config for XeroXFCE Dev"
 arch=('any')

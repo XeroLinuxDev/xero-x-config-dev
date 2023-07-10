@@ -36,7 +36,6 @@ set_title = true
 
 # Cleanup temporary or old files
 cleanup = true
-display_preamble = false
 skip_notify = true
 
 [git]
